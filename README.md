@@ -2,7 +2,6 @@
 A multifunctional Windows stealer, no dedicated server needed (logs are sent to telegram). ✨The price for a lifetime license is 40$✨. Contact me by Telegram to buy: **<em>@shinyenigma</em>**
 
 ## Features 
-
 <br>🔹NEW: The tool was fully rewritten to C++
 <br>🔹NEW: Improved builder
 <br>🔹NEW: Log encryption (optional)
