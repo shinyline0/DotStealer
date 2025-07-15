@@ -1,4 +1,4 @@
-# DotStealer 2.0
+# DotStealer 2.0 
 A multifunctional Windows stealer, no dedicated server needed (logs are sent to telegram). ✨The price for a lifetime license is 40$✨. Contact me by Telegram to buy: **<em>@shinyenigma</em>**
 
 ## Features 
